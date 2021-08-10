@@ -1,5 +1,3 @@
-<p align="center">
-    zeb >:3
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=0x7a6562&color=grey">
 </p>
