@@ -7,4 +7,4 @@
 <p align="center">
 learning c & python
 <p align="center">
-    <a href="https://discord.gg/rejects">rejects (dsc)</a>
+    <a href="https://discord.gg/murder">murder (dsc)</a>
